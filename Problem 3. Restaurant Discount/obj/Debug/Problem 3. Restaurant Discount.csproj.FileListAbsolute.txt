@@ -1,0 +1,5 @@
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.exe.config
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.exe
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.pdb
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.exe
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.pdb

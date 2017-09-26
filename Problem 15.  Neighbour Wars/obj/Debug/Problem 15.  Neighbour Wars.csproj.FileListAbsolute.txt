@@ -1,0 +1,6 @@
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 15.  Neighbour Wars\bin\Debug\Problem_15.Neighbour_Wars.exe.config
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 15.  Neighbour Wars\bin\Debug\Problem_15.Neighbour_Wars.exe
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 15.  Neighbour Wars\bin\Debug\Problem_15.Neighbour_Wars.pdb
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 15.  Neighbour Wars\obj\Debug\Problem 15.  Neighbour Wars.csprojResolveAssemblyReference.cache
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 15.  Neighbour Wars\obj\Debug\Problem_15.Neighbour_Wars.exe
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 15.  Neighbour Wars\obj\Debug\Problem_15.Neighbour_Wars.pdb

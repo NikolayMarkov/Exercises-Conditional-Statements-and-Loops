@@ -1,0 +1,1 @@
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\triangle\bin\Debug\triangle.exe.config

@@ -1,0 +1,5 @@
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 8. Calories Counter\bin\Debug\Problem_8.Calories_Counter.exe.config
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 8. Calories Counter\bin\Debug\Problem_8.Calories_Counter.exe
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 8. Calories Counter\bin\Debug\Problem_8.Calories_Counter.pdb
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 8. Calories Counter\obj\Debug\Problem_8.Calories_Counter.exe
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 8. Calories Counter\obj\Debug\Problem_8.Calories_Counter.pdb

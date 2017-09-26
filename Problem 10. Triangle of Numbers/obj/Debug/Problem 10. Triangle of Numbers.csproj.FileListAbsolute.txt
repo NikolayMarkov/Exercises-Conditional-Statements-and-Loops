@@ -1,0 +1,6 @@
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 10. Triangle of Numbers\bin\Debug\Problem_10.Triangle_of_Numbers.exe.config
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 10. Triangle of Numbers\bin\Debug\Problem_10.Triangle_of_Numbers.exe
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 10. Triangle of Numbers\bin\Debug\Problem_10.Triangle_of_Numbers.pdb
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 10. Triangle of Numbers\obj\Debug\Problem 10. Triangle of Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 10. Triangle of Numbers\obj\Debug\Problem_10.Triangle_of_Numbers.exe
+D:\SoftUni\3 lesson\Exercises Conditional Statements and Loops\Problem 10. Triangle of Numbers\obj\Debug\Problem_10.Triangle_of_Numbers.pdb
